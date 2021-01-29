@@ -1,0 +1,10 @@
+//exm
+var secondmake = 66
+//next
+var secondhome = 67
+//next
+var hourg = secondmake*secondhome
+//finsih
+hourg
+
+//YOU CAN REPLACE * TO + OR - AND MORE IDK IM NOT REAL PROGRAMMER I JUST HELP IN JS
